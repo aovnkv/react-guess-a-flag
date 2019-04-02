@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # react-guess-a-flag
-A simple app written in ReactJS
-||||||| merged common ancestors
+A simple quiz written in ReactJS
+
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
