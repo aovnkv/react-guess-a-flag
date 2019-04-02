@@ -2,7 +2,7 @@
 # react-guess-a-flag
 A simple quiz written in ReactJS
 
-=======
+=======<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
