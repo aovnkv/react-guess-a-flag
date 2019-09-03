@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-guess-a-flag/static/css/main.55e79b66.chunk.css",
+    "main.js": "/react-guess-a-flag/static/js/main.9ca7ca27.chunk.js",
+    "main.js.map": "/react-guess-a-flag/static/js/main.9ca7ca27.chunk.js.map",
+    "runtime~main.js": "/react-guess-a-flag/static/js/runtime~main.f6533399.js",
+    "runtime~main.js.map": "/react-guess-a-flag/static/js/runtime~main.f6533399.js.map",
+    "static/js/2.d2172a01.chunk.js": "/react-guess-a-flag/static/js/2.d2172a01.chunk.js",
+    "static/js/2.d2172a01.chunk.js.map": "/react-guess-a-flag/static/js/2.d2172a01.chunk.js.map",
+    "index.html": "/react-guess-a-flag/index.html",
+    "precache-manifest.b1e381be0266e22b9c706e264caa16be.js": "/react-guess-a-flag/precache-manifest.b1e381be0266e22b9c706e264caa16be.js",
+    "service-worker.js": "/react-guess-a-flag/service-worker.js",
+    "static/css/main.55e79b66.chunk.css.map": "/react-guess-a-flag/static/css/main.55e79b66.chunk.css.map"
+  }
+}
